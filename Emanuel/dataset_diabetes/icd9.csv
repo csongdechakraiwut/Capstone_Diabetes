@@ -1,0 +1,20 @@
+Group name,icd9 codes,Number of encounters,% of encounter,Description
+Circulatory,"390–459, 785","21,411",30.60%,Diseases of the circulatory system
+Respiratory,"460–519, 786","9,490",13.60%,Diseases of the respiratory system
+Digestive,"520–579, 787","6,485",9.30%,Diseases of the digestive system
+Diabetes,250.xx,"5,747",8.20%,Diabetes mellitus
+Injury,800–999,"4,697",6.70%,Injury and poisoning
+Musculoskeletal,710–739,"4,076",5.80%,Diseases of the musculoskeletal system and connective tissue
+Genitourinary,"580–629, 788","3,435",4.90%,Diseases of the genitourinary system
+Neoplasms,140–239,"2,536",3.60%,Neoplasms
+Other,"780, 781, 784, 790–799","2,136",3.10%,"Other symptoms, signs, and ill-defined conditions"
+Other,"240–279, without 250","1,851",2.60%,"Endocrine, nutritional, and metabolic diseases and immunity disorders, without diabetes"
+Other,"680–709, 782","1,846",2.60%,Diseases of the skin and subcutaneous tissue
+Other,001–139,"1,683",2.40%,Infectious and parasitic diseases
+Other,290–319,"1,544",2.20%,Mental disorders
+Other,E–V,918,1.30%,External causes of injury and supplemental classification
+Other,280–289,652,0.90%,Diseases of the blood and blood-forming organs
+Other,320–359,634,0.90%,Diseases of the nervous system
+Other,630–679,586,0.80%,"Complications of pregnancy, childbirth, and the puerperium"
+Other,360–389,216,0.30%,Diseases of the sense organs
+Other,740–759,41,0.10%,Congenital anomalies
