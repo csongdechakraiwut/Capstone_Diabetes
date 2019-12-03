@@ -1,0 +1,5 @@
+#ignore a entire directory
+/misc/
+
+#ignore specific file
+temp_merged_data_preprocessed.csv
