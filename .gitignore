@@ -1,5 +1,5 @@
 #ignore a entire directory
-/test/
+/misc/
 
 #ignore specific file
 Untitled.ipynb
