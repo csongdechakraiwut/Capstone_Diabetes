@@ -3,3 +3,12 @@
 
 #ignore specific file
 temp_merged_data_preprocessed.csv
+
+df_unique_train_cleaned.csv
+df_unique_test_cleaned.csv
+df_whole_test_cleaned.csv
+df_whole_train_cleaned.csv
+scrape eda_data_clean.ipynb
+scrap_modeling.ipynb
+test_dataset.csv
+train_dataset.csv
