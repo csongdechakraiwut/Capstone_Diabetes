@@ -4,7 +4,8 @@ Title: Project 1 - Readmission Prediction
 
 Purpose: The purpose of this project is to develop a predictive model which will help hospitals reduce their readmission rates among diabetic patients.
 
-Introduction: A goal of the Affordable Health Care act is to increase the quality of hospital care in U.S hospitals.  One specific issue area in which hospitals can improve quality is by improving hospital readmission rates.  Under the Affordable Care Act, CMS created the Hospital Readmission Reduction Program in order to link payment data to the quality of hospital care in order to improve health quality for Americans.  Essentially, payments to Inpatient Prospective Payment System (IPPS) hospitals depend on each hospital’s readmission rates.  Hospitals with poor readmission performance are financially penalized through reduced payments.
+Introduction: 
+A goal of the Affordable Health Care act is to increase the quality of hospital care in U.S hospitals.  One specific issue area in which hospitals can improve quality is by improving hospital readmission rates.  Under the Affordable Care Act, CMS created the Hospital Readmission Reduction Program in order to link payment data to the quality of hospital care in order to improve health quality for Americans.  Essentially, payments to Inpatient Prospective Payment System (IPPS) hospitals depend on each hospital’s readmission rates.  Hospitals with poor readmission performance are financially penalized through reduced payments.
 
 Hospital Readmission Definitions according to CMS:
 The 30-day risk standardized readmission measures include:
@@ -45,6 +46,7 @@ https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/
 
 Details on Readmission Calculations:
 https://www.medicare.gov/hospitalcompare/Data/30-day-measures.html 
+
 See hospital performance categories
 30 day risk standardized readmission calculations http://www.qualitynet.org/dcs/ContentServer?c=Page&pagename=QnetPublic%2FPage%2FQnetTier3&cid=1219069855273 
 
